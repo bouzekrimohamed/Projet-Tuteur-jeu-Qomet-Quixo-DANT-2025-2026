@@ -11,7 +11,7 @@ Logiciel de jeu permettant de jouer à **QOMET** (et optionnellement **QUIXO**) 
 - **Interface graphique moderne** (thèmes / skins)
 - (Optionnel) **Monétisation / gains** (à cadrer selon contraintes pédagogiques)
 
-> Projet réalisé dans le cadre de l’UE **DANT 2025–2026**.
+> Projet réalisé dans le cadre de l’UE ** Projet S6 DANT 2025–2026**.
 
 ---
 
